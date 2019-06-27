@@ -6,9 +6,9 @@ import (
 
 // pointers
 func main() {
-	for y := 0; y < 100; y++{
-		prtMem(&y)
-		fmt.Println(y)
+	for z := 0; z < 100; z++{
+		prtMem(&z)
+		fmt.Println(z)
 	}
 }
 

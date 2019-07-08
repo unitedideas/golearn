@@ -9,7 +9,7 @@ func main() {
 	var num2 = 9.5
 	fmt.Println(add(num1, num2))
 
-	w1, w2 := "Hey", "There"
+	w1, w2 := "Hiyas", "There"
 	fmt.Println(multiple(w1, w2))
 
 	animals := []Animal{Dog{}, Cat{}, Llama{}, JavaProgrammer{}}

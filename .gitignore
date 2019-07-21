@@ -27,9 +27,11 @@ _testmain.go
 *.iml
 
 # Directory-based project format:
+.idea/*
 .idea
 .idea/
 .idea/workspace.xml
+workspace.xml
 **/.idea/workspace.xml
 
 # mac hidden files

@@ -1,4 +1,4 @@
-package main
+package chap1ex
 
 import "fmt"
 
